@@ -1,8 +1,8 @@
 import boto3
 import pprint
 # Credentials & Region
-access_key = "AKIAJERTBDC5Y7HANPGA"
-secret_key = "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"
+access_key = ""
+secret_key = ""
 region = "ap-south-1"
 EC2_KEY_HANDLE = "sourav"
 

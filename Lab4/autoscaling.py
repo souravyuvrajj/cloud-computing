@@ -6,8 +6,8 @@ from boto.ec2.cloudwatch import MetricAlarm
 from boto.ec2.autoscale import ScalingPolicy
 import boto.ec2.cloudwatch
 
-access_key_id = "AKIAJERTBDC5Y7HANPGA"
-secret_access_key = "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"
+access_key_id = ""
+secret_access_key = ""
 
 REGION = "ap-south-1"
 AMI_ID = "ami-00b6a8a2bd28daf19"
